@@ -41,34 +41,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-<h4>:checkered_flag: Rodando o projeto </h4>
-
-```bash
-# Clone este repositório
-$ git clone <https://github.com/future4code/Thais-Sombra>
-
-# Acesse a pasta do projeto no terminal
-$ cd ./estanteVirtual
-
-# Crie um arquivo `.env` na pasta raíz do projeto com as suas informações:
-
-DB_HOST = host do banco de dados
-DB_USER = user do banco de dados
-DB_PASSWORD = senha
-DB_NAME = nome do banco de dados
-
-# Instale as dependências
-$ npm install
-
-# Para criar tabelas
-$ npm run migrations
-
-# Para iniciar o projeto
-$ npm run start
-
-# O servidor inciará na porta:3003 - acesse <http://localhost:3003>
-```
-
 <h2 id="observacoes">:pencil: Observações</h2>
 
 <a id="pt-scripts"></a>
@@ -78,12 +50,12 @@ $ npm run start
 * `npm run dev` para iniciar a aplicação em modo de desenvolvimento com hot reload.
 * `npm run test` para rodar os testes.
 
-<h2 id="desenvolvedores">:construction_worker: Desenvolvedora</h2>
+<h2 id="desenvolvedores">:construction_worker: Desenvolvedor</h2>
 
 <table> 
 <tr>
     
- <td align="center"><a href="https://github.com/leokoga"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/80704054?v=4" width="100px" alt=""/>
+ <td align="center"><a href="https://github.com/leokoga"><img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/99742656?v=4" width="100px" alt=""/>
  <br />
  <sub><b>Leonardo Koga</b></sub></a> <a href="https://github.com/leokoga">🚀</a></td>
  
