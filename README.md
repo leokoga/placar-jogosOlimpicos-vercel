@@ -1,4 +1,3 @@
-<h1 align="center" id="top"><img src="https://logodownload.org/wp-content/uploads/2020/03/olimpiada-olympic-games-logo-4.png/"> </h1>
 <h1 align="center" id="top"> Jogos Olímpicos - Estante Virtual </h1>
 
 <p align="center">
