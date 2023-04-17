@@ -5,12 +5,12 @@
   <a href="#funciona">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#observacoes">Observações</a> &#xa0; | &#xa0;
-  <a href="#desenvolvedores">Desenvolvedores</a>
+  <a href="#desenvolvedores">Desenvolvedor</a>
 </p>
 
 <h2 id="sobre">:notebook: Sobre </h2>
 
-<p align="center">Esta API foi desenvolvida conforme proposta do bootcampo ministrado pela Labenu para criação de um sistema de controle e tratativa de resultados de jogos olimpícos, sendo necessário verificar as seguintes condições: melhor resultado entre 3 tentativas para cada competidor na modalidade de dardos e menor tempo na corrida de 100 m.</p>
+<p align="center">Esta API foi desenvolvida conforme proposta de criação de um sistema de controle e tratativa de resultados de jogos olimpícos.</p>
 
 <h2 id="tecnologias"> 🛠 Tecnologias </h2>
 
